@@ -1,0 +1,24 @@
+------- Command Line Commands and Atribiots -----
+
+- move  = mv --> move or rename file 
+- explorer .  -> open file window 
+-ls = dir -> list of directors 
+- ..  -> change dir to back
+- copy = cp -r  -> copy file
+- rm -r  = remove   --> remove file  -f fors 
+">> add new word in the file "  
+  " - cat show all file contant "  
+-cat can copy too  
+"grep can find "  
+"file -> type of fiel  "  
+"man = /?  -> git manu of command "  
+"tree /a "  
+"osk -> open screnkeypord"  
+"tasklist -> task manegaer"
+"alias -> "  
+"whoami -> display my user name "  
+-systeminfo - all system info 
+printf =echo -> output newline use for new line use \n 
+-----------------
+" | clip -> copy enything before piplin to clipoard"  
+
