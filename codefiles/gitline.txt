@@ -19,3 +19,5 @@
 - No Need To Connect To Remote Repo When Working 
 -Anyone CAn Push and Pull Depend On Permissions
 "git restore fileName  -> to discard changes"  
+"--------- Next Steps ----------"  
+-
