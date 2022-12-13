@@ -1,0 +1,21 @@
+
+------- Important Notes ---------
+
+-Repository 
+-Branch
+- Local Reop 
+- Reomte Reop
+- Commit
+- Clone 
+- Push 
+- Pull 
+- Pull Request 
+- Git status
+- git reset head  file name    --> remove file from stasion eary 
+
+
+- Create Repository For Every Project 
+- Create A NewBranch For Every Feature or Enhancement
+- No Need To Connect To Remote Repo When Working 
+-Anyone CAn Push and Pull Depend On Permissions
+"git restore fileName  -> to discard changes"  
